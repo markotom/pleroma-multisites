@@ -4,10 +4,6 @@
 Developed by: Marco Godínez (@Markotom)
 URL: http://about.me/markotom
 */
-
-/*************
-[WIDGETS]
-**************/
 ?>
 
 <?php
