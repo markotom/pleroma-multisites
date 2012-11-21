@@ -239,7 +239,7 @@ NAVIGATION STYLES
       */
       ul.sub-menu,
       ul.children {
-        margin-left: 10px;
+        border-left: 3px solid $color1;
         width: 220px;
         border-top: 0;
         display: none;
